@@ -70,6 +70,5 @@ Vous pouvez consulter la liste des branches disponibles avec la commande suivant
 
 Pour récupérer une branche distante dans votre dépôt git local du même nom, vous devez lancer la commande suivante (exemple avec la branche 1-navigation-and-containers) :
 
-      git checkout -b section-1 origin/1-navigation-and-containers
-
+      git checkout -b section-1 origin/1-operators
 Vous pouvez également télécharger une archive zip d'une branche donnée en la sélectionnant parmi la liste des branches en haut à gauche de l'interface sur github, puis en cliquant sur le bouton "Clone or Download" puis "Download as ZIP".
